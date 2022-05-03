@@ -144,7 +144,7 @@
     min-height: calc(200vh - 60px); }
     main .icons {
       margin-top: 1rem;
-    margin-left: 4rem;}
+      margin-left: 4rem;}
       main .icons a {
         padding: 3.4rem; }
         main .icons a:hover {
