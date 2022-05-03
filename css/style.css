@@ -143,8 +143,7 @@
     padding: 4rem;
     min-height: calc(200vh - 60px); }
     main .icons {
-      margin-top: 1rem;
-    }
+      margin-top: 1rem;}
       main .icons a {
         padding: 3.4rem; }
         main .icons a:hover {
