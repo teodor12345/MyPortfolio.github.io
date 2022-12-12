@@ -103,10 +103,11 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.5; }
     body#bg-img {
-      background: url('https://images.unsplash.com/photo-1606127195437-d12564b184e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGJsYWNrJTIwZGVza3xlbnwwfHwwfHw%3D&w=1000&q=80');
+      background: url('https://images.unsplash.com/photo-1606127195437-d12564b184e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGJsYWNrJTIwZGVza3xlbnwwfHwwfHw%3D&w=1000&q=80')  ;
       background: rgba(68, 68, 68, 0.9), url(../img/background.jpg);
       background-attachment: fixed;
-      background-size: cover ; 
+      background-size:cover;
+     
     
 
     } 
